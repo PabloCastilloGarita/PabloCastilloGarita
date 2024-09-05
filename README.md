@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my own projects<br>
 👯 I’m looking to collaborate with other developers<br>
-🌱 I’m currently learning web development and data analysis<br>
+🌱 I’m currently learning data analysis<br>
 
 
 ## 🌐 Socials:
